@@ -1,2 +1,1 @@
-# dan-group.github.io
-DNA-group website
+# DNA-group website

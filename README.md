@@ -1,1 +1,2 @@
-# DNA-group website
+[DNA-group website](https://dna-group.github.io)
+

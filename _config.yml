@@ -3,5 +3,5 @@ title: Title
 description: Description
 theme: jekyll-theme-minimal
 
-show_downloads: [false]
+show_downloads: ["false"]
 google_analytics: [G-RX5ZEFN9MV]

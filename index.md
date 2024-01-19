@@ -9,6 +9,6 @@
 </script>
 # Hello
 ## Detail
->```bash
+```bash
 rev | sed y/GATCgatc/CTAGctag/
 ```
